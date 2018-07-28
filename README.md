@@ -6,3 +6,5 @@ Just download this project
 In the command prompt just type
 npm install 
 It will install all the dependencies require for this project.
+then type
+npm start to run this project in browser
